@@ -1,4 +1,4 @@
-# House Price Analysis and Visualization
+# Comparative Analysis of the real estate market between the richest and the poorest in the USA
 
 ## Project Overview
 
