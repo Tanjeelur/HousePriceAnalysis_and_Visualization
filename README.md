@@ -16,7 +16,6 @@ Mississippi is consistently ranked as one of the poorest states in the U.S., wit
 **Key Outcomes from the Analysis:**
 
 - **Median House Prices:** Washington’s median house prices are significantly higher than Mississippi’s, both in absolute terms and per square foot.
-- **Price Distribution:** Box plots show a much wider and higher price range for Washington, with Mississippi’s prices clustered at the lower end.
 - **Price per Square Foot:** Washington homes command a higher price per square foot, indicating greater demand and property value.
 - **City-Level Insights:** The most expensive cities are predominantly in Washington, with Mississippi cities ranking much lower in terms of median price.
 - **Property Types & Lot Sizes:** Washington offers a greater diversity of property types and generally larger lot sizes, while Mississippi’s market is more limited.
